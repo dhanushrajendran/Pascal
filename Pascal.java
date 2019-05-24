@@ -1,3 +1,4 @@
+//Pascal's traingle
 import java.util.Scanner;
 
 public class PascalsTriangle 
