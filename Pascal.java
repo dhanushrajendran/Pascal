@@ -1,4 +1,4 @@
-//Pascal traingle
+//java program to implement pascal triangle
 import java.util.Scanner;
 
 public class PascalsTriangle 
